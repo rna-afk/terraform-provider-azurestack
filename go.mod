@@ -1,6 +1,6 @@
 module github.com/terraform-providers/terraform-provider-azurestack
 
-go 1.12
+go 1.16
 
 require (
 	github.com/Azure/azure-sdk-for-go v51.2.0+incompatible
